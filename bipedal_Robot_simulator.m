@@ -1,6 +1,7 @@
 function varargout = simulator(varargin)
 % Biped simulator m-file for simulator.fig
 % Uses: simulator.fig, animatef.m, simclosereq.m
+%
 
 % Begin initialization code - DO NOT EDIT
 gui_Singleton = 1;
